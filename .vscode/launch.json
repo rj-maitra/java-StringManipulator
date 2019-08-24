@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringManipulatorTesting",
+            "request": "launch",
+            "mainClass": "StringManipulatorTesting",
+            "projectName": "StringManipulator_e5e290c7"
+        }
+    ]
+}
